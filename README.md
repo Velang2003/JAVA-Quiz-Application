@@ -1,20 +1,55 @@
 ## MotionCut Internsip Project : JAVA-Console-Based-Quiz-Application
 
-This Java application creates an interactive console-based quiz. Users are presented with a series of questions, and their responses are evaluated to determine their score.
+This Java application creates an interactive console-based quiz and GUI based quiz. Users are presented with a series of questions, and their responses are evaluated to determine their score.
 
-## Features:
+**************************************************
+# CONSOLE-BASED & GUI-BASED QUIZ APPLICATION USING JAVA
 
-- Multiple-choice questions: The quiz includes questions with multiple answer choices.
-- Scoring system: Users receive points for correct answers and a final score is calculated.
-- Question variety: The quiz covers a range of topics or subjects, providing a diverse experience.
+**A Java console-based & Java Swing-based program quiz is to test your Java programming knowledge.**
 
-## Project Overview:
+**Features:**
 
-This Java console-based quiz application was developed as part of an internship at MotionCut. The goal of this project was to create an interactive and engaging quiz experience for users.
+* **Multiple-choice questions** covering a wide range of Java topics.
+* **10 questions** with 10 points awarded for each correct answer.
+* **Clear feedback** on correct and incorrect answers.
+* **Simple and intuitive interface** built using Java Swing and AWT components.
 
-## To Compile & Run GUI application using command prompt
-- COMPILE : javac -d . *.java 
-- RUN : java Login.Login
+**How to Use GUI Based Java Application:**
 
-project builded with java Swing class. make sure JDK 17 is installed in your PC.
-thankyou.
+1. Clone the repository.
+   `git clone https://github.com/Velang2003/JAVA-Quiz-Application.git`
+2. Open *GUI-Based-Quiz-Application* folder.
+3. Compile the java files / run java class files.
+4. To Compile : `Javac -d . *.java`
+5. Run the `Login` class to start the quiz.
+   To Run : `java Login.Login` 
+6. Answer each question by selecting the appropriate option and clicking "Submit".
+8. Your final score will be displayed at the end of the quiz.
+
+**How to Use Console Based Java Application:**
+
+1. Clone the repository.
+   `git clone https://github.com/Velang2003/JAVA-Quiz-Application.git`
+2. Open *Console-Based-Quiz-App* folder.
+3. Compile the java files / run java class files.
+4. To Compile : `Javac QuizApp.java`
+5. Run the `QuizApp` class to start the quiz.
+   To Run : `java QuizApp` 
+6. Answer each question by selecting the appropriate option and clicking "Submit".
+8. Your final score will be displayed at the end of the quiz.
+9. 
+
+**Technologies Used:**
+
+* Java
+* Java Swing
+* AWT
+* Events
+
+**Contributing:**
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
+
+**License:**
+
+MIT License
