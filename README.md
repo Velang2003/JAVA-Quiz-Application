@@ -11,3 +11,10 @@ This Java application creates an interactive console-based quiz. Users are prese
 ## Project Overview:
 
 This Java console-based quiz application was developed as part of an internship at MotionCut. The goal of this project was to create an interactive and engaging quiz experience for users.
+
+## To Compile & Run GUI application using command prompt
+COMPILE : javac -d . *.java 
+RUN : java Login.Login
+
+project builded with java Swing class. make sure JDK 17 is installed in your PC.
+thankyou.
