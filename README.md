@@ -20,11 +20,11 @@ This Java application creates an interactive console-based quiz and GUI based qu
    `git clone https://github.com/Velang2003/JAVA-Quiz-Application.git`
 2. Open *GUI-Based-Quiz-Application* folder.
 3. Compile the java files / run java class files.
-4. To Compile : `Javac -d . *.java`
-5. Run the `Login` class to start the quiz.
-   To Run : `java Login.Login` 
-6. Answer each question by selecting the appropriate option and clicking "Submit".
-8. Your final score will be displayed at the end of the quiz.
+- To Compile : `Javac -d . *.java`
+4. Run the `Login` class to start the quiz.
+- To Run : `java Login.Login` 
+5. Answer each question by selecting the appropriate option and clicking "Submit".
+6. Your final score will be displayed at the end of the quiz.
 
 **How to Use Console Based Java Application:**
 
@@ -32,12 +32,11 @@ This Java application creates an interactive console-based quiz and GUI based qu
    `git clone https://github.com/Velang2003/JAVA-Quiz-Application.git`
 2. Open *Console-Based-Quiz-App* folder.
 3. Compile the java files / run java class files.
-4. To Compile : `Javac QuizApp.java`
-5. Run the `QuizApp` class to start the quiz.
-   To Run : `java QuizApp` 
-6. Answer each question by selecting the appropriate option and clicking "Submit".
-8. Your final score will be displayed at the end of the quiz.
-9. 
+- To Compile : `Javac QuizApp.java`
+4. Run the `QuizApp` class to start the quiz.
+- To Run : `java QuizApp` 
+5. Answer each question by selecting the appropriate option and clicking "Submit".
+6. Your final score will be displayed at the end of the quiz.
 
 **Technologies Used:**
 
