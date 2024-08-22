@@ -4,9 +4,9 @@ This Java application creates an interactive console-based quiz. Users are prese
 
 ## Features:
 
-. Multiple-choice questions: The quiz includes questions with multiple answer choices.
-. Scoring system: Users receive points for correct answers and a final score is calculated.
-. Question variety: The quiz covers a range of topics or subjects, providing a diverse experience.
+- Multiple-choice questions: The quiz includes questions with multiple answer choices.
+- Scoring system: Users receive points for correct answers and a final score is calculated.
+- Question variety: The quiz covers a range of topics or subjects, providing a diverse experience.
 
 ## Project Overview:
 
