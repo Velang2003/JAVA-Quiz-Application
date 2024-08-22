@@ -1,20 +1,15 @@
-## MotionCut Internsip Project : JAVA-Console-Based-Quiz-Application
+# MotionCut Internsip Project : JAVA-Console-Based & GUI-Bases Quiz Application
 
 This Java application creates an interactive console-based quiz and GUI based quiz. Users are presented with a series of questions, and their responses are evaluated to determine their score.
 
-**************************************************
-# CONSOLE-BASED & GUI-BASED QUIZ APPLICATION USING JAVA
-
-**A Java console-based & Java Swing-based program quiz is to test your Java programming knowledge.**
-
-**Features:**
+**# Features:**
 
 * **Multiple-choice questions** covering a wide range of Java topics.
 * **10 questions** with 10 points awarded for each correct answer.
 * **Clear feedback** on correct and incorrect answers.
 * **Simple and intuitive interface** built using Java Swing and AWT components.
 
-**How to Use GUI Based Java Application:**
+**# How to Use GUI Based Java Application:**
 
 1. Clone the repository.
    `git clone https://github.com/Velang2003/JAVA-Quiz-Application.git`
@@ -26,7 +21,7 @@ This Java application creates an interactive console-based quiz and GUI based qu
 5. Answer each question by selecting the appropriate option and clicking "Submit".
 6. Your final score will be displayed at the end of the quiz.
 
-**How to Use Console Based Java Application:**
+**# How to Use Console Based Java Application:**
 
 1. Clone the repository.
    `git clone https://github.com/Velang2003/JAVA-Quiz-Application.git`
@@ -38,17 +33,17 @@ This Java application creates an interactive console-based quiz and GUI based qu
 5. Answer each question by selecting the appropriate option and clicking "Submit".
 6. Your final score will be displayed at the end of the quiz.
 
-**Technologies Used:**
+**# Technologies Used:**
 
 * Java
 * Java Swing
 * AWT
 * Events
 
-**Contributing:**
+**## Contributing:**
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-**License:**
+**## License:**
 
 MIT License
